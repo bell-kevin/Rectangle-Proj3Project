@@ -2,7 +2,7 @@ package rectangle;
 
 /******************************************************************************
  * Box.java 
- * Programmer: @author jcboyd
+ * Kevin Bell
  * 
  * This class is associated with Rectangle.java
  *****************************************************************************/
