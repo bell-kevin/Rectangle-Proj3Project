@@ -2,9 +2,7 @@ package rectangle;
 
 /******************************************************************************
  * Rectangle.java 
- * Programmer: @author jcboyd
- * Version: 2.0
- * Course: SDEV 1060
+ * Kevin Bell
  *
  * This simple program is for learning how to test using JUnit
  *****************************************************************************/
@@ -15,7 +13,7 @@ public class Rectangle
 {
     public static void main(String[] args) 
     {
-        System.out.println("Box JUnit Tests by JC Boyd\n");
+        System.out.println("Box JUnit Tests by Kevin Bell\n");
         
         Scanner stdIn = new Scanner(System.in);
         int length, width, height, area, perimeter, volume;
